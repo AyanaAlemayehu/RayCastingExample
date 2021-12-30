@@ -1,0 +1,12 @@
+﻿  RayCaster.cpp
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(10,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(38,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(47,61): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(54,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(83,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(84,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(87,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(92,12): warning C4244: '*=': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(93,12): warning C4244: '*=': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\ayana\source\repos\Crude3DRenderings\RayCaster.cpp(94,12): warning C4244: '*=': conversion from 'float' to 'uint8_t', possible loss of data
+  Crude3DRenderings.vcxproj -> C:\Users\ayana\source\repos\Crude3DRenderings\x64\Debug\Crude3DRenderings.exe
