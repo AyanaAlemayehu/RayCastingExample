@@ -1,4 +1,4 @@
-#include "MapControl.h"
+#include "../include/MapControl.h"
 int mw, mh, lw, lh;
 size_t mapLayoutSize;
 uint32_t mapLayoutColor;

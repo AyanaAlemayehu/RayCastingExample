@@ -2,10 +2,10 @@
 #include <cstdint>
 #include <cassert>
 #include <string>
-#include "ImageFunctions.h"
-#include "MapControl.h"
-#include "RayCaster.h"
-#include "Player.h"
+#include "../include/ImageFunctions.h"
+#include "../include/MapControl.h"
+#include "../include/RayCaster.h"
+#include "../include/Player.h"
 #include <SDL.h>
 #undef main
 

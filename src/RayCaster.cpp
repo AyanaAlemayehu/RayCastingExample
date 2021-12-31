@@ -1,4 +1,4 @@
-#include "RayCaster.h"
+#include "../include/RayCaster.h"
 	float distance;
 	char collision;
 	RayCaster::Ray::Ray() {
